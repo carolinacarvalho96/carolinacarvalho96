@@ -1,8 +1,8 @@
 ### Olá!!! Eu sou a Carolina Carvalho 👩🏽‍💻
 
-- 🦾 Nível de experiência : Iniciante;
+
 - 💻 Atualmente trabalho com Front End;
-- 📒 Estou estudando Javascript e Vue.Js;
+- 📒 Estudando Javascript/Vue.Js;
 
 <div align="center">
   <a href="https://github.com/carolinacarvalho96">
