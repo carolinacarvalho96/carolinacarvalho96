@@ -1,4 +1,4 @@
-### Olá!!! Eu sou a Carolina Carvalho 👩🏽‍💻
+### Olá!!! Eu sou a Carol Carvalho 👩🏽‍💻
 
 
 - 💻 Atualmente trabalho com Front End;
