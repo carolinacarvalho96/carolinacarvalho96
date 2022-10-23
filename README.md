@@ -1,9 +1,5 @@
 ### Olá!!! Eu sou a Carol Carvalho 👩🏽‍💻
 
-
-- 💻 Atualmente trabalho com Front End;
-- 📒 Estudando Javascript/Vue.Js;
-
 <div align="center">
   <a href="https://github.com/carolinacarvalho96">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinacarvalho96&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
